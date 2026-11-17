@@ -1,0 +1,7 @@
+[{"question_text" : "What is the biggest football club in England",
+  "alternative" :["Liverpool", "Manchester United", "Arsenal","Chelsea"],
+  "correct_answer" : 2},
+  
+ {"question_text" : "Who is Ronaldo",
+  "alternative" : ["Fotballer", "Actor","Bussines Man"],
+  "correct_answer" : 1}]
