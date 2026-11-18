@@ -1,0 +1,6 @@
+[{"question_text" : "the name of home of manchester united football club",
+"alternatives" : ["Anfield", "Old Trafford", "Santiago Bernabeu"],
+"correct_answer":2},
+{"question_text" : "Who is Ronaldo",
+"alternatives" : ["Footballer", "actor","Bussines man"],
+"correct_answer" : 1}]
